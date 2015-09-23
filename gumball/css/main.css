@@ -1,0 +1,23 @@
+h1, h2, h3, h4, p, li, a, i, div, span{ "Microsoft Yahei", Arial, Helvetica, sans-serif;}
+p, li, a, div, span{font-size: 16px; letter-spacing: 2px; }
+body{ margin: 0px;}
+button{
+	margin: 15px;
+}
+#candybox{
+	background-color: #ddd;
+	width: 90%;
+	min-height: 50px;
+	margin: auto;
+	margin: 40px;
+}
+.gumball{
+	float:left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+}
+
+.Red{background-color: red}
+.Blue{background-color: blue}
+.Green{background-color: green}
