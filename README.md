@@ -13,4 +13,4 @@ When the left image is clicked/tapped, an audio file will play and the right
 • If the left image is again clicked/tapped within 3 seconds after a click/tap, the timer restarts another 3 seconds. During that time, no audio plays and the right image the first picture shown.
 
 ####[Gumball Machine](http://lizhien.com/test/gumball/)
-####[Sesame Quiz]http://lizhien.com/test/sesame_quiz/
+####[Sesame Quiz](http://lizhien.com/test/sesame_quiz/)
